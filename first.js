@@ -1,0 +1,1 @@
+console.log("This is our starting point to learn the git and github");
